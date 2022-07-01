@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **suyogschavan03@gmail.com**
 
-- ⚡ Fun fact **typing speed avg100+ wpm**
+- ⚡ Fun fact **Anime is not for kids**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
