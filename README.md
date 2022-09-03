@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **suyogschavan03@gmail.com**
 
-- ⚡ Fun fact **Anime is not for kids**
+- ⚡ Fun fact **Anime is way better than movies**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
