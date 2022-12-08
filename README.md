@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Suyog</h1>
-<h3 align="center">A passionate software developer from India. Interested in Python programming and machine learning</h3>
+<h3 align="center">On road to become a passionate software developer. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogschavan&label=Profile%20views&color=0e75b6&style=flat" alt="suyogschavan" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **suyogschavan03@gmail.com**
 
-- ⚡ Fun fact **Anime is way better than movies**
+- ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
