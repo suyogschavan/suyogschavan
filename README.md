@@ -3,9 +3,16 @@
 <h1 align="center">Hi 👋, I'm Suyog</h1>
 <h3 align="center">Technophile </h3>
 
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogschavan&label=Profile%20views&color=0e75b6&style=flat" alt="suyogschavan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyogschavan" alt="suyogschavan" /></a> </p>
+
+ ![Frustrated_programmer_qeR3D5O](https://github.com/suyogschavan/suyogschavan/assets/83905525/91f266ba-cfe9-47c0-ba44-f288332396a2)
+
+
 
 - 📫 To reach me --> **suyogschavan03@gmail.com**
 
@@ -20,7 +27,6 @@
 <a href="https://www.youtube.com/c/suyog chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suyog chavan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suyog8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suyog8" height="30" width="40" /></a>
 </p>
-
 
 
 
