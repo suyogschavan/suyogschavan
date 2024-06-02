@@ -4,17 +4,9 @@
 <h3 align="center">Technophile </h3>
 
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogschavan&label=Profile%20views&color=0e75b6&style=flat" alt="suyogschavan" /> </p>
 
-
- ![Frustrated_programmer_qeR3D5O](https://github.com/suyogschavan/suyogschavan/assets/83905525/91f266ba-cfe9-47c0-ba44-f288332396a2)
-
-
-
-- 📫 To reach me --> **suyogschavan03@gmail.com**
+<img align="right" src="https://github.com/suyogschavan/suyogschavan/assets/83905525/91f266ba-cfe9-47c0-ba44-f288332396a2" alt="Programmation" width="400" />
 
 
 <h3 align="left">Connect with me:</h3>
