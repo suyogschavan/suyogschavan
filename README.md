@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Suyog</h1>
 <h3 align="center">Technophile </h3>
-
+<h3 align="center"> 👉🏽 <a target="_blank" align="center" href="https://thesuyog.vercel.app">PORTFOLIO</a> 👈🏽</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suyogschavan&label=Profile%20views&color=0e75b6&style=flat" alt="suyogschavan" /> </p>
 
