@@ -1,12 +1,21 @@
 
 
-<h1 align="center">Hi 👋, I'm Suyog</h1>
+<!--<h1 align="center">Hi 👋, I'm Suyog</h1>
 <h3 align="center">Technophile </h3>
 <h3 align="center"> 👉🏽 <a target="_blank" align="center" href="https://thesuyog.vercel.app">PORTFOLIO</a> 👈🏽</h3>
+!-->
+# Hi 👋, I'm Suyog
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suyogschavan&label=Profile%20views&color=0e75b6&style=flat" alt="suyogschavan" /> </p>
+**Technophile | Developer | Builder**
 
-<img align="right" src="https://github.com/suyogschavan/suyogschavan/assets/83905525/91f266ba-cfe9-47c0-ba44-f288332396a2" alt="Programmation" width="350" />
+🚀 I craft web apps, backend systems, and cool projects.  
+But instead of reading about me here, check out my **Portfolio** 👇  
+
+👉 [**Visit My Portfolio**](https://your-portfolio-link.com)
+
+<p> <img src="https://komarev.com/ghpvc/?username=suyogschavan&label=Profile%20views&color=0e75b6&style=flat" alt="suyogschavan" /> </p>
+
+<!--<img align="right" src="https://github.com/suyogschavan/suyogschavan/assets/83905525/91f266ba-cfe9-47c0-ba44-f288332396a2" alt="Programmation" width="350" />
 
 
 <!-- <p align="center">
@@ -21,9 +30,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyogschavan&show_icons=true&locale=en" alt="suyogschavan" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyogschavan&show_icons=true&locale=en" alt="suyogschavan" /></p>
 
 
-<h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/suyogschavan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suyogschavan" /></a></p><br><br>
+<!-- <h3 align="left">Support:</h3><p><a href="https://www.buymeacoffee.com/suyogschavan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suyogschavan" /></a></p><br><br> 
 
 
